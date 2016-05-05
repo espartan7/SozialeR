@@ -1,5 +1,5 @@
 # SozialeR
-Social Robots mit python für Arturo V.G.
+Social Robots mit python von Arturo V.G.
 
  Microsoft Windows
 
